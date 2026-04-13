@@ -34,7 +34,7 @@ Follow these steps to replicate the repository and run the application locally:
 
 ```Bash
 
-   **npm install**
+   npm install
    ```
 ## Run the Development Server:
 ```bash
@@ -63,13 +63,15 @@ Kiro
 GitHub Co-Pilot:
 
 Condensed Development Prompts
+```
 Senior Nuxt Developer Prompt: "Build a Donation Hub using Nuxt 3, Tailwind, and Pinia. Include an Impact Dashboard (Donut Charts), a 4-step Campaign Wizard (Purpose, Financials, Verification, Engagement), and a mobile-responsive Campaign Feed with progress bars."
 
 Senior UX Designer Prompt (Identity): "Design a Biometric Login flow and an Academic Passport card synced with registrar records. Include QR code sharing and granular privacy controls for employers/alumni."
 
 Senior UX Designer Prompt (Automation): "Create a 'Pledge & Automate' flow to solve user forgetfulness. Include frequency selectors (15th/30th), impact visualization, and GCash/Bank integration placeholders."
-
+```
 Kiro:
+```
 Initial Setup & Styling
 
 Set the color theme to blue and white on the home page
@@ -88,7 +90,7 @@ Careers page — added job board cards (Google, Spotify, Microsoft) with salary 
 Alumni Network page — redesigned to match your uploaded mockup with search bar, Near Me / Industry Experts filter buttons, and Featured Alumni cards showing profile photo, verified badge, job title, degree/year, Connect and Message buttons
 Renamed "Docs" to "Records" in the sidebar navigation
 Login Page Cleanup
-
+```
 
 # Screenshots of the Output:
 
