@@ -55,10 +55,39 @@ Tools Used:
 
 GitHub Copilot
 
-Claude 3.5 Sonnet
+Kiro: (Claude Sonnet 4.5)
 
 Kiro
 
+##AI Prompt
+GitHub Co-Pilot:
+
+Condensed Development Prompts
+Senior Nuxt Developer Prompt: "Build a Donation Hub using Nuxt 3, Tailwind, and Pinia. Include an Impact Dashboard (Donut Charts), a 4-step Campaign Wizard (Purpose, Financials, Verification, Engagement), and a mobile-responsive Campaign Feed with progress bars."
+
+Senior UX Designer Prompt (Identity): "Design a Biometric Login flow and an Academic Passport card synced with registrar records. Include QR code sharing and granular privacy controls for employers/alumni."
+
+Senior UX Designer Prompt (Automation): "Create a 'Pledge & Automate' flow to solve user forgetfulness. Include frequency selectors (15th/30th), impact visualization, and GCash/Bank integration placeholders."
+
+Kiro:
+Initial Setup & Styling
+
+Set the color theme to blue and white on the home page
+Made sure all pages have a back button that navigates to the main home page (/home)
+Color & Theme Refinements
+
+Made the theme darker blue and white throughout the app
+Updated Tailwind config with deeper navy blues (#000B1F, #001845, #002D72)
+New Pages Created
+
+Records page (/records) — Academic Records dashboard with digital passport card, document services (transcript, e-diploma, degree verification), and request history with status badges
+Campaign Creation page — redesigned to match your uploaded mockup with 4 steps: Purpose & Details (with category icons), Set Your Goal, Verification Documents (upload ID/certificates), and Engagement & Appreciation (real-time alerts, thank you message, video upload)
+Page Redesigns
+
+Careers page — added job board cards (Google, Spotify, Microsoft) with salary ranges, employment type badges, and Apply Now buttons; added Alumni Mentors section with Request Meeting buttons; added search bar and tab navigation (Job Board, Mentorship, Workshops)
+Alumni Network page — redesigned to match your uploaded mockup with search bar, Near Me / Industry Experts filter buttons, and Featured Alumni cards showing profile photo, verified badge, job title, degree/year, Connect and Message buttons
+Renamed "Docs" to "Records" in the sidebar navigation
+Login Page Cleanup
 Screenshots of the Output:
 
 <img width="1911" height="989" alt="Screenshot 2026-04-13 160441" src="https://github.com/user-attachments/assets/edf6f54b-c3f2-4335-a215-96306d8510fc" />
