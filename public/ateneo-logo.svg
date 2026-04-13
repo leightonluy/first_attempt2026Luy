@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220">
+    <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#002855" />
+            <stop offset="100%" stop-color="#003366" />
+        </linearGradient>
+    </defs>
+    <rect width="220" height="220" rx="34" fill="url(#grad)" />
+    <path d="M110 40 L70 70 L70 150 L110 180 L150 150 L150 70 Z" fill="#fff" stroke="#002855" stroke-width="6" />
+    <circle cx="110" cy="88" r="18" fill="#002855" />
+    <path d="M78 110 L142 110" stroke="#002855" stroke-width="10" />
+    <path d="M110 60 L110 180" stroke="#002855" stroke-width="10" />
+    <text x="110" y="205" font-family="Inter, sans-serif" font-size="30" text-anchor="middle" fill="#fff" font-weight="700">ATENEO</text>
+</svg>
