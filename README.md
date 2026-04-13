@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt Content Starter
 
 Look at the [Nuxt Content documentation](https://content.nuxt.com) to learn more.
@@ -73,3 +74,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+=======
+# first_attempt2026Luy
+Project: Donation Module(An Alumni Hub App Website). 
+>>>>>>> 6e8801fe1800a012938debc7df5e8208d4c06d0a
