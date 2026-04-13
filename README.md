@@ -59,7 +59,7 @@ Kiro: (Claude Sonnet 4.5)
 
 Kiro
 
-##AI Prompt
+## AI Prompt
 GitHub Co-Pilot:
 
 Condensed Development Prompts
@@ -88,7 +88,9 @@ Careers page — added job board cards (Google, Spotify, Microsoft) with salary 
 Alumni Network page — redesigned to match your uploaded mockup with search bar, Near Me / Industry Experts filter buttons, and Featured Alumni cards showing profile photo, verified badge, job title, degree/year, Connect and Message buttons
 Renamed "Docs" to "Records" in the sidebar navigation
 Login Page Cleanup
-Screenshots of the Output:
+
+
+# Screenshots of the Output:
 
 <img width="1911" height="989" alt="Screenshot 2026-04-13 160441" src="https://github.com/user-attachments/assets/edf6f54b-c3f2-4335-a215-96306d8510fc" />
 <img width="1915" height="991" alt="Screenshot 2026-04-13 160314" src="https://github.com/user-attachments/assets/d0d1db07-4686-44f2-acde-ff4868745c37" />
