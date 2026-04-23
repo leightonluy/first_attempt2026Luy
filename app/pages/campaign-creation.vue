@@ -1,8 +1,5 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import { useRouter } from 'vue-router'
-
-const router = useRouter()
 
 const currentStep = ref(1)
 const totalSteps = 4
@@ -42,7 +39,7 @@ const prevStep = () => {
 }
 
 const submitCampaign = () => {
-  router.push('/thank-you')
+  navigateTo('/thank-you')
 }
 </script>
 

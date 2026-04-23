@@ -1,13 +1,12 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import { useRouter } from 'vue-router'
 
-const router = useRouter()
 const username = ref('')
 const password = ref('')
 
+// Use navigateTo — pure client-side Vue Router navigation, no server request
 const goToHome = () => {
-  router.push('/home')
+  navigateTo('/home', { replace: true })
 }
 </script>
 
