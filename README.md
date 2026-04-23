@@ -1,9 +1,11 @@
-# Luy
+# Luy(Activity 15 Vibe coding Part 2)
 
 ## Project Detail:
 
 **Framework:** NuxtJS (Nuxt 3)  
 **Module** Donation Module (An Alumni Hub App Website)
+
+**PWA** Creation of a PWA website ready for offline viewing
 
 ### Key Modules
 
@@ -52,59 +54,33 @@ npm run build
 This project utilized advanced AI assistance to streamline architecture and UX logic.
 
 Tools Used:
-
-GitHub Copilot
+Gemini AI(For making the instructions)
 
 Kiro: (Claude Sonnet 4.5)
 
 Kiro
 
-## AI Prompt
-GitHub Co-Pilot:
-
-Condensed Development Prompts
+## AI Prompt "Master Prompt"
+- Kiro (Claude Sonnet 4.5):
 ```
-Senior Nuxt Developer Prompt: "Build a Donation Hub using Nuxt 3, Tailwind, and Pinia. Include an Impact Dashboard (Donut Charts), a 4-step Campaign Wizard (Purpose, Financials, Verification, Engagement), and a mobile-responsive Campaign Feed with progress bars."
+"(First-prompt Attempt):
+Make my project into a pwa ready website and ensure it is working. What are the neccessary functionalities to make it into a pwa and integrate that project"
+"The first attempt when i make test it in service worker offline, I want it that everything modules, css, logo pngs, and files are included in pwa whenever i am in offline set, ensure it is working "
 
-Senior UX Designer Prompt (Identity): "Design a Biometric Login flow and an Academic Passport card synced with registrar records. Include QR code sharing and granular privacy controls for employers/alumni."
-
-Senior UX Designer Prompt (Automation): "Create a 'Pledge & Automate' flow to solve user forgetfulness. Include frequency selectors (15th/30th), impact visualization, and GCash/Bank integration placeholders."
-```
-Kiro:
-```
-Initial Setup & Styling
-
-Set the color theme to blue and white on the home page
-Made sure all pages have a back button that navigates to the main home page (/home)
-Color & Theme Refinements
-
-Made the theme darker blue and white throughout the app
-Updated Tailwind config with deeper navy blues (#000B1F, #001845, #002D72)
-New Pages Created
-
-Records page (/records) — Academic Records dashboard with digital passport card, document services (transcript, e-diploma, degree verification), and request history with status badges
-Campaign Creation page — redesigned to match your uploaded mockup with 4 steps: Purpose & Details (with category icons), Set Your Goal, Verification Documents (upload ID/certificates), and Engagement & Appreciation (real-time alerts, thank you message, video upload)
-Page Redesigns
-
-Careers page — added job board cards (Google, Spotify, Microsoft) with salary ranges, employment type badges, and Apply Now buttons; added Alumni Mentors section with Request Meeting buttons; added search bar and tab navigation (Job Board, Mentorship, Workshops)
-Alumni Network page — redesigned to match your uploaded mockup with search bar, Near Me / Industry Experts filter buttons, and Featured Alumni cards showing profile photo, verified badge, job title, degree/year, Connect and Message buttons
-Renamed "Docs" to "Records" in the sidebar navigation
-Login Page Cleanup
+"(MASTER PROMPT):Make all pages and components and entire vue project run in offline website.
+include all pages available in offline in pwa"
 ```
 
 # Screenshots of the Output:
 
-<img width="1911" height="989" alt="Screenshot 2026-04-13 160441" src="https://github.com/user-attachments/assets/edf6f54b-c3f2-4335-a215-96306d8510fc" />
-<img width="1915" height="991" alt="Screenshot 2026-04-13 160314" src="https://github.com/user-attachments/assets/d0d1db07-4686-44f2-acde-ff4868745c37" />
-<img width="1912" height="989" alt="Screenshot 2026-04-13 160321" src="https://github.com/user-attachments/assets/3bb62079-9b30-41a1-8d03-ca88a5dd8a34" />
-<img width="1915" height="989" alt="Screenshot 2026-04-13 160329" src="https://github.com/user-attachments/assets/49dbcd57-4796-45c5-9340-9e2bbcc7ed29" />
-<img width="1918" height="992" alt="Screenshot 2026-04-13 160335" src="https://github.com/user-attachments/assets/c9f8eebe-c0aa-4ff8-8e0f-297fbcf3391f" />
-<img width="1919" height="996" alt="Screenshot 2026-04-13 160340" src="https://github.com/user-attachments/assets/6904334b-1f16-4741-a7be-86e427478f76" />
-<img width="1918" height="991" alt="Screenshot 2026-04-13 160349" src="https://github.com/user-attachments/assets/49e23be6-ab04-470c-b841-2e7d2d0feed8" />
-<img width="1919" height="989" alt="Screenshot 2026-04-13 160357" src="https://github.com/user-attachments/assets/d4da2cda-6f75-43c3-bedf-3b14ded6ae19" />
-<img width="1919" height="992" alt="Screenshot 2026-04-13 160404" src="https://github.com/user-attachments/assets/917d350c-3777-46fe-a7c5-d81de05be798" />
-<img width="1918" height="994" alt="Screenshot 2026-04-13 160411" src="https://github.com/user-attachments/assets/8f44ce55-16af-488a-8fdc-1e7429c0c971" />
-<img width="1917" height="992" alt="Screenshot 2026-04-13 160432" src="https://github.com/user-attachments/assets/7be3796b-087d-4fba-b244-4afed7feb914" />
+### Updated Offline Viewing 
+
+<img width="1918" height="967" alt="Screenshot 2026-04-23 201803" src="https://github.com/user-attachments/assets/1e4e7004-49ee-4351-8249-c771d346376a" />
+<img width="1918" height="965" alt="Screenshot 2026-04-23 201810" src="https://github.com/user-attachments/assets/05218970-ef99-4dc9-90e4-45fd4356cd33" />
+<img width="1917" height="1079" alt="Screenshot 2026-04-23 201822" src="https://github.com/user-attachments/assets/79f09e25-afbf-4861-8582-2e05a9f8ed7c" />
+<img width="1912" height="992" alt="Screenshot 2026-04-23 190726" src="https://github.com/user-attachments/assets/3b370a08-3993-436d-90eb-9bafc71acb42" />
+<img width="1915" height="958" alt="Screenshot 2026-04-23 201758" src="https://github.com/user-attachments/assets/7a06dea2-ec08-40ea-a2d3-07b38e3dc884" />
+
 
 
 # Nuxt Content Starter

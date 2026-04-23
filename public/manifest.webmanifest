@@ -1,0 +1,52 @@
+{
+  "name": "Ateneo Alumni Network",
+  "short_name": "ADDU Alumni",
+  "description": "Ateneo de Davao University Alumni Portal — connect, donate, and manage your academic records.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001845",
+  "theme_color": "#001845",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Donation Hub",
+      "short_name": "Donate",
+      "url": "/donation-hub",
+      "description": "Go to the Donation Hub"
+    },
+    {
+      "name": "Alumni Network",
+      "short_name": "Network",
+      "url": "/alumni-network",
+      "description": "Browse the Alumni Network"
+    },
+    {
+      "name": "Career Opportunities",
+      "short_name": "Careers",
+      "url": "/careers",
+      "description": "View Career Opportunities"
+    },
+    {
+      "name": "Academic Records",
+      "short_name": "Records",
+      "url": "/records",
+      "description": "View Academic Records"
+    }
+  ],
+  "categories": ["education", "social", "productivity"]
+}
