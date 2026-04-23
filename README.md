@@ -73,19 +73,7 @@ include all pages available in offline in pwa"
 
 # Screenshots of the Output:
 
-<img width="1911" height="989" alt="Screenshot 2026-04-13 160441" src="https://github.com/user-attachments/assets/edf6f54b-c3f2-4335-a215-96306d8510fc" />
-<img width="1915" height="991" alt="Screenshot 2026-04-13 160314" src="https://github.com/user-attachments/assets/d0d1db07-4686-44f2-acde-ff4868745c37" />
-<img width="1912" height="989" alt="Screenshot 2026-04-13 160321" src="https://github.com/user-attachments/assets/3bb62079-9b30-41a1-8d03-ca88a5dd8a34" />
-<img width="1915" height="989" alt="Screenshot 2026-04-13 160329" src="https://github.com/user-attachments/assets/49dbcd57-4796-45c5-9340-9e2bbcc7ed29" />
-<img width="1918" height="992" alt="Screenshot 2026-04-13 160335" src="https://github.com/user-attachments/assets/c9f8eebe-c0aa-4ff8-8e0f-297fbcf3391f" />
-<img width="1919" height="996" alt="Screenshot 2026-04-13 160340" src="https://github.com/user-attachments/assets/6904334b-1f16-4741-a7be-86e427478f76" />
-<img width="1918" height="991" alt="Screenshot 2026-04-13 160349" src="https://github.com/user-attachments/assets/49e23be6-ab04-470c-b841-2e7d2d0feed8" />
-<img width="1919" height="989" alt="Screenshot 2026-04-13 160357" src="https://github.com/user-attachments/assets/d4da2cda-6f75-43c3-bedf-3b14ded6ae19" />
-<img width="1919" height="992" alt="Screenshot 2026-04-13 160404" src="https://github.com/user-attachments/assets/917d350c-3777-46fe-a7c5-d81de05be798" />
-<img width="1918" height="994" alt="Screenshot 2026-04-13 160411" src="https://github.com/user-attachments/assets/8f44ce55-16af-488a-8fdc-1e7429c0c971" />
-<img width="1917" height="992" alt="Screenshot 2026-04-13 160432" src="https://github.com/user-attachments/assets/7be3796b-087d-4fba-b244-4afed7feb914" />
-
-# Updated Offline Viewing 
+### Updated Offline Viewing 
 
 <img width="1918" height="967" alt="Screenshot 2026-04-23 201803" src="https://github.com/user-attachments/assets/1e4e7004-49ee-4351-8249-c771d346376a" />
 <img width="1918" height="965" alt="Screenshot 2026-04-23 201810" src="https://github.com/user-attachments/assets/05218970-ef99-4dc9-90e4-45fd4356cd33" />
