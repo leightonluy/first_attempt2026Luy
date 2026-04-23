@@ -84,7 +84,7 @@ include all pages available in offline in pwa"
 <img width="1919" height="992" alt="Screenshot 2026-04-13 160404" src="https://github.com/user-attachments/assets/917d350c-3777-46fe-a7c5-d81de05be798" />
 <img width="1918" height="994" alt="Screenshot 2026-04-13 160411" src="https://github.com/user-attachments/assets/8f44ce55-16af-488a-8fdc-1e7429c0c971" />
 <img width="1917" height="992" alt="Screenshot 2026-04-13 160432" src="https://github.com/user-attachments/assets/7be3796b-087d-4fba-b244-4afed7feb914" />
-#Updated OFFLINE VIEWING OUTPUT:
+# Updated OFFLINE VIEWING OUTPUT:
 
 <img width="1918" height="967" alt="Screenshot 2026-04-23 201803" src="https://github.com/user-attachments/assets/1e4e7004-49ee-4351-8249-c771d346376a" />
 <img width="1918" height="965" alt="Screenshot 2026-04-23 201810" src="https://github.com/user-attachments/assets/05218970-ef99-4dc9-90e4-45fd4356cd33" />
